@@ -21,12 +21,12 @@
 # tutorial 7 ------------ learn texture painting in 10 min 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2zxzUi_ctDI&list=PLboXykqtm8dwGbepocDtEfOy9up8ebQMG&index=4/0.jpg)](https://www.youtube.com/watch?v=2zxzUi_ctDI&list=PLboXykqtm8dwGbepocDtEfOy9up8ebQMG&index=4)
 
-# tutorial 8 ----------- blender materials for absolute beginner mjZzxDKSvBE
-
-# tutorial 9 -----------realistic materials -PBR(physically based rendering) in 7 min A7QteBvUOdQ
-
-# tutorial 10 ---------beginners guide to complex material in 15 min moKFSMJwpmE
-
+# tutorial 8 ----------- blender materials for absolute beginner 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mjZzxDKSvBE/0.jpg)](https://www.youtube.com/watch?v=mjZzxDKSvBE)
+# tutorial 9 -----------realistic materials -PBR(physically based rendering) in 7 min 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A7QteBvUOdQ/0.jpg)](https://www.youtube.com/watch?v=A7QteBvUOdQ)
+# tutorial 10 ---------beginners guide to complex material in 15 min 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/moKFSMJwpmE/0.jpg)](https://www.youtube.com/watch?v=moKFSMJwpmE)
 
 
 # Tutorial Series 2 ---   Prictice more and more Modeling abt 15 min daily
