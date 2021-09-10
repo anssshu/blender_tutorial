@@ -13,13 +13,13 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_3NFtRBDCV0/0.jpg)](https://www.youtube.com/watch?v=_3NFtRBDCV0)
 
 # tutorial 5 --------------practice some more modeling techniques in 6 mins
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VYN9g-U7uco&list=PLboXykqtm8dwGbepocDtEfOy9up8ebQMG/0.jpg)](https://www.youtube.com/watch?v=VYN9g-U7uco&list=PLboXykqtm8dwGbepocDtEfOy9up8ebQMG)
+[![IMAGE ALT TEXT HERE](images/1-5.png)](https://www.youtube.com/watch?v=VYN9g-U7uco&list=PLboXykqtm8dwGbepocDtEfOy9up8ebQMG)
 
 # tutorial 6 ------------- create an window and add textures to it in 10 mins 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yrQlaGbpnDE/0.jpg)](https://www.youtube.com/watch?v=yrQlaGbpnDE)
 
 # tutorial 7 ------------ learn texture painting in 10 min 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2zxzUi_ctDI&list=PLboXykqtm8dwGbepocDtEfOy9up8ebQMG&index=4/0.jpg)](https://www.youtube.com/watch?v=2zxzUi_ctDI&list=PLboXykqtm8dwGbepocDtEfOy9up8ebQMG&index=4)
+[![IMAGE ALT TEXT HERE](images/1-7.png)](https://www.youtube.com/watch?v=2zxzUi_ctDI&list=PLboXykqtm8dwGbepocDtEfOy9up8ebQMG&index=4)
 
 # tutorial 8 ----------- blender materials for absolute beginner 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mjZzxDKSvBE/0.jpg)](https://www.youtube.com/watch?v=mjZzxDKSvBE)
@@ -34,13 +34,13 @@
 # tutorial 1 ------------ fundamentals in 11 min 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OVbIOHAI3iY/0.jpg)](https://www.youtube.com/watch?v=OVbIOHAI3iY)
 # tutorial 2 ------------ quick tools 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sKX2tgope-Y&t=76s/0.jpg)](https://www.youtube.com/watch?v=sKX2tgope-Y&t=76s)
+[![IMAGE ALT TEXT HERE](images/2-2.png)](https://www.youtube.com/watch?v=sKX2tgope-Y&t=76s)
 # tutorial 3 ------------ spin tool  8 min
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2MVmxTzbSrU/0.jpg)](https://www.youtube.com/watch?v=2MVmxTzbSrU)
 # tutorial 4 ------------ make a cup 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4yHRhgwSTHE/0.jpg)](https://www.youtube.com/watch?v=4yHRhgwSTHE)
 # tutorial 5 -----------  make a safety cone 7 min  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fBLMwX8uewY&list=PL0sleyIddsC0eDdPNjluk1fnca_STin72/0.jpg)](https://www.youtube.com/watch?v=fBLMwX8uewY&list=PL0sleyIddsC0eDdPNjluk1fnca_STin72)
+[![IMAGE ALT TEXT HERE](images/2-5.png)](https://www.youtube.com/watch?v=fBLMwX8uewY&list=PL0sleyIddsC0eDdPNjluk1fnca_STin72)
 # tutorial 6------------ model a stair from scratch 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UZbVC9imtIg/0.jpg)](https://www.youtube.com/watch?v=UZbVC9imtIg)
 # tutorial 7 ---------   model a stair2 
