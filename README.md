@@ -4,7 +4,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Dh9qhS7UgeU/0.jpg)](https://www.youtube.com/watch?v=Dh9qhS7UgeU)
 
 # tutorial 2 -----------------make your first 3d model in 15 min
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QlErCEe9A8o&t/0.jpg)](https://www.youtube.com/watch?v=QlErCEe9A8o&t=158s)
+[![IMAGE ALT TEXT HERE](images/1-2.png)](https://www.youtube.com/watch?v=QlErCEe9A8o&t=158s)
 
 # tutorial 3 ----------------make a table in 10 min
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v2Zb4BsD2K8/0.jpg)](https://www.youtube.com/watch?v=v2Zb4BsD2K8)
