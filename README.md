@@ -31,25 +31,25 @@
 
 # Tutorial Series 2 ---   Prictice more and more Modeling abt 15 min daily
 
-# tutorial 1 ------------ fundamentals in 11 min OVbIOHAI3iY
-
-# tutorial 2 ------------ quick tools sKX2tgope-Y&t=76s
-
-# tutorial 3 ------------ spin tool 2MVmxTzbSrU 8 min
-
-# tutorial 4 ------------ make a cup 4yHRhgwSTHE
-
-# tutorial 5 -----------  make a safety cone 7 min  fBLMwX8uewY&list=PL0sleyIddsC0eDdPNjluk1fnca_STin72
-
-# tutorial 6------------ model a stair from scratch UZbVC9imtIg
-
-# tutorial 7 ---------   model a stair2 UKAvwAqymJU
-
-# tutorial 8 ----------  artectural modeling l-aom9PyosM
-
-# tutorial 9-----------  house plan eiDVmoecTw4
-
-# tutorial 10----------  make gears cN3dvb0_py0
-
+# tutorial 1 ------------ fundamentals in 11 min 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OVbIOHAI3iY/0.jpg)](https://www.youtube.com/watch?v=OVbIOHAI3iY)
+# tutorial 2 ------------ quick tools 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sKX2tgope-Y&t=76s/0.jpg)](https://www.youtube.com/watch?v=sKX2tgope-Y&t=76s)
+# tutorial 3 ------------ spin tool  8 min
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2MVmxTzbSrU/0.jpg)](https://www.youtube.com/watch?v=2MVmxTzbSrU)
+# tutorial 4 ------------ make a cup 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4yHRhgwSTHE/0.jpg)](https://www.youtube.com/watch?v=4yHRhgwSTHE)
+# tutorial 5 -----------  make a safety cone 7 min  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fBLMwX8uewY&list=PL0sleyIddsC0eDdPNjluk1fnca_STin72/0.jpg)](https://www.youtube.com/watch?v=fBLMwX8uewY&list=PL0sleyIddsC0eDdPNjluk1fnca_STin72)
+# tutorial 6------------ model a stair from scratch 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UZbVC9imtIg/0.jpg)](https://www.youtube.com/watch?v=UZbVC9imtIg)
+# tutorial 7 ---------   model a stair2 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UKAvwAqymJU/0.jpg)](https://www.youtube.com/watch?v=UKAvwAqymJU)
+# tutorial 8 ----------  artectural modeling 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/l-aom9PyosM/0.jpg)](https://www.youtube.com/watch?v=l-aom9PyosM)
+# tutorial 9-----------  house plan 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eiDVmoecTw4/0.jpg)](https://www.youtube.com/watch?v=eiDVmoecTw4)
+# tutorial 10----------  make gears
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cN3dvb0_py0/0.jpg)](https://www.youtube.com/watch?v=cN3dvb0_py0)
 
 
